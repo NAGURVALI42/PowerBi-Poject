@@ -51,7 +51,7 @@ Styled the layout with professional theme colors and minimal design.
 ---
 
 ### **📊 Dashboard**
-![Data Professional Survey Breakdown Dashboard](Screenshot%202025-10-18%20155645.png)
+![Data Professional Survey Breakdown Dashboard](Screenshot%202025-10-17%20155645.png)
 
 ### **💡 Project Insights**
 
