@@ -1,14 +1,14 @@
-👩‍💻 Data Professional Survey Breakdown Dashboard
-📌 Project Objective
+#👩‍💻 Data Professional Survey Breakdown Dashboard
+##📌 Project Objective
 
 The goal of this project is to analyze and visualize survey data from data professionals worldwide. The dashboard aims to explore demographics, salaries, job satisfaction, and skills within the data industry — offering insights into what influences happiness, compensation, and preferred technologies.
 
-📊 Dataset Used
+##📊 Dataset Used
 
 Dataset: Data Professional Survey (from Alex the Analyst’s dataset series)
 Source: https://www.kaggle.com/datasets/alexanderfreberg/data-professional-survey
 
-📈 Questions (KPIs) Addressed
+##📈 Questions (KPIs) Addressed
 
 What is the average salary by job title?
 
@@ -22,7 +22,7 @@ What are the favorite programming languages among data professionals?
 
 How happy are respondents with their work-life balance and salary?
 
-⚙️ Process
+##⚙️ Process
 
 Data Preparation (Excel/Power Query):
 
@@ -44,7 +44,7 @@ Designed KPI cards and gauge visuals for happiness scores.
 
 Styled the layout with professional theme colors and minimal design.
 
-📊 Dashboard
+##📊 Dashboard
 
 💡 Project Insights
 
@@ -60,7 +60,7 @@ Work-life balance satisfaction (4.79/10) is higher than salary satisfaction (3.5
 
 A slight gender gap exists in average salaries, with males earning marginally more.
 
-✅ Final Conclusion
+##✅ Final Conclusion
 
 This analysis provides a snapshot of global data professionals — their backgrounds, job satisfaction, and compensation levels. It highlights that while salaries vary by role and gender, the overall community values work-life balance and skill development.
 The dashboard offers a clear, interactive view for HR teams, educators, and analysts to understand the evolving data industry landscape.
